@@ -8,8 +8,9 @@
 # testing
 /coverage
 
-# production
-/build
+# removed for github pages
+# # production
+# /build
 
 # misc
 .DS_Store
