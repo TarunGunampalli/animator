@@ -106,6 +106,7 @@ function Tutorial3() {
 			<ul>
 				<li>Use C to toggle between orbital mode and FPS mode</li>
 				<li>Hold T to translate a bone instead of rotating it</li>
+				<li>Use 1-7 to switch between different scenes</li>
 			</ul>
 		</div>
 	);
